@@ -36,3 +36,42 @@ Também utilizamos um número antes da letra "d" para representar a quantidade d
 Algumas livrarias possuem uma sessão onde você pode comprar dados. Existe também opções de roladores online, podendo ser utilizados no computador ou até em um smartphone.
 
 ## Criando um personagem
+
+### Atributos Básicos
+#### Força
+#### Destreza
+#### Constituição
+#### Inteligência
+#### Sabedoria
+#### Carisma
+
+### Status do personagem
+
+#### Pontos de Vida
+Representa a saúde de um personagem no campo de batalha. Seus pontos de vida são relacionados a sua classe.
+
+#### Pontos de Energia
+#### Classe de Armadura
+#### Salvaguardas
+#### Perícias
+#### Habilidades
+##### Habilidades Nativas
+##### Habilidades de Classe
+##### Habilidades Gerais
+#### Conceitos
+
+### Sequência de criação
+
+#### Ancestralidade
+#### Biografia
+#### Classe
+##### Habilidades
+#### Detalhes
+##### Tendência
+##### Deuses
+##### Objetivos
+#### Equipamento
+##### Armas
+##### Armaduras
+##### Itens mundanos
+##### Itens mágicos

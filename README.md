@@ -11,6 +11,9 @@ Sabendo disso, a proposta da Guilda é trabalhar em um sistema de crescimento co
 O sistema receberá manutenção direta da comunidade e poderá possuir versões, das quais o grupo de jogo pode optar por qual utilizar.
 Uma vez com uma versão estável, poderão surgir eventuais patches de atualização ou uma versão completamente nova.
 
+## Premissas Principais
+### O jogador deve poder fazer o que ele deseja
+
 ## Versionamento
 
 Nós utilizamos [SemVer](http://semver.org/) para versionamento. Para as versões disponíveis, veja as [tags nesse repositório](https://github.com/coppolaop/DungeonManager/tags). 
