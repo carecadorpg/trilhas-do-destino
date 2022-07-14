@@ -1,3 +1,3 @@
-# Capítulo 3 - Biografia
-Biografia representa a história do seu personagem, o tipo de pessoa que ele era durante a infância e/ou adolescência e que fez ele se tornar o que ele é hoje.
-Um conjunto de experiências esteriotipadas que permitem a criação dinamica de um personagem sem problemas com relação à mecânica do jogo.
+# CapÃ­tulo 3 - Biografia
+Biografia representa a histÃ³ria do seu personagem, o tipo de pessoa que ele era durante a infÃ¢ncia e/ou adolescÃªncia e que fez ele se tornar o que ele Ã© hoje.
+Um conjunto de experiÃªncias estereotipadas que permitem a criaÃ§Ã£o dinÃ¢mica de um personagem sem problemas com relaÃ§Ã£o Ã  mecÃ¢nica do jogo.
