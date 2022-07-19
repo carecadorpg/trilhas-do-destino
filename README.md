@@ -21,18 +21,15 @@ Para o modelo de branches, utilizaremos o [Modelo de branches de Cacto](https://
 
 ## Equipe
 
-### Criador
+* **Marcos "Coppola" Gonçalves** - *2022-2022* - [Coppolaop](https://github.com/coppolaop)
+* **Igor Huayck** - *2022* - [Flaigor](https://github.com/Flaigor)
+* **Vitor Cavalcanti** - *2022* - [VitorCF97](https://github.com/VitorCF97)
 
-* **Marcos "Coppola" Gonçalves** - *2020-2022* - [Coppolaop](https://github.com/coppolaop)
+### Criadores
 
-### Desenvolvedores
-
-* **Marcos "Coppola" Gonçalves** - *2020-2022* - [Coppolaop](https://github.com/coppolaop)
-* **Igor Huayck** - *2020* - [Flaigor](https://github.com/Flaigor)
-
-### Testadores
-
-* **Marcos "Coppola" Gonçalves** - *2020-2022* - [Coppolaop](https://github.com/coppolaop)
+* **Marcos "Coppola" Gonçalves** - *2022-2022* - [Coppolaop](https://github.com/coppolaop)
+* **Igor Huayck** - *2022* - [Flaigor](https://github.com/Flaigor)
+* **Vitor Cavalcanti** - *2022* - [VitorCF97](https://github.com/VitorCF97)
 
 ## Licença
 
