@@ -1,30 +1,39 @@
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table {
+    margin:auto;
+}
+</style>
+
 # Capítulo 7 - Perícias
 
 Perícias são um tipo de treinamento em uma determinada área de atuação que um personagem recebe durante sua formação. Seu treinamento é determinado através da Ancestralidade, Biografia e Classe do personagem.
 
 Para utilizar uma perícia, o jogador deverá declarar esta utilização ao Mestre/Narrador, para ele avaliar a dificuldade do teste. Uma vez com a dificuldade determinada, o jogador deverá realizar um teste de perícia rolando um d20 e somando seu bônus naquela perícia. Este bônus determinado pelo treinamento do personagem e em seu atributo chave. Uma vez que o personagem possua treinamento, a Cada perícia é ligada a um atributo chave e o modificador do atributo é automaticamente aplicado nos teste específicos da perícia.
 
-Algumas perícias dependem de um treinamento prévio e só podem ser utilizadas uma vez que o personagem seja instruído em como executá-la. A utilização de alguns tipos de armadura causa penalidades em algumas destas perícias por serem pesadas e/ou fazem barulho durante a movimentação. Segue a lista de perícias do sistema:
+Algumas perícias dependem de um treinamento prévio e só podem ser utilizadas uma vez que o personagem seja instruído em como executá-la. A utilização de alguns tipos de armadura causa penalidades em perícias de atributo força e destreza, por serem pesadas e/ou fazem barulho durante a movimentação, para mais detalhes, consulte o capítulo de equipamentos. Segue a lista de perícias do sistema:
 
-| Pericia         | Atributo     | Somente treinada | Penalidade de armadura |
-| --------------- | ------------ | ---------------- | ---------------------- |
-| Atletismo       | Força        | Não              | Sim                    |
-| Acrobacia       | Destreza     | Não              | Sim                    |
-| Furtividade     | Destreza     | Não              | Sim                    |
-| Prestidigitação | Destreza     | Não              | Sim                    |
-| Dedução         | Inteligência | Não              | Não                    |
-| História        | Inteligência | Sim              | Não                    |
-| Manufatura      | Inteligência | Sim              | Sim                    |
-| Misticismo      | Inteligência | Sim              | Não                    |
-| Natureza        | Inteligência | Sim              | Não                    |
-| Religião        | Inteligência | Sim              | Não                    |
-| Adestramento    | Sabedoria    | Não              | Não                    |
-| Medicina        | Sabedoria    | Sim              | Não                    |
-| Percepção       | Sabedoria    | Não              | Não                    |
-| Sobrevivência   | Sabedoria    | Não              | Não                    |
-| Diplomacia      | Carisma      | Não              | Não                    |
-| Enganação       | Carisma      | Não              | Não                    |
-| Intimidação     | Carisma      | Não              | Não                    |
+| Perícia         |   Atributo   | Somente treinada |
+| --------------- | :----------: | :--------------: |
+| Atletismo       |    Força     |       Não        |
+| Acrobacia       |   Destreza   |       Não        |
+| Furtividade     |   Destreza   |       Não        |
+| Prestidigitação |   Destreza   |       Não        |
+| Dedução         | Inteligência |       Não        |
+| História        | Inteligência |       Sim        |
+| Manufatura      | Inteligência |       Sim        |
+| Misticismo      | Inteligência |       Sim        |
+| Natureza        | Inteligência |       Sim        |
+| Adestramento    |  Sabedoria   |       Não        |
+| Medicina        |  Sabedoria   |       Sim        |
+| Percepção       |  Sabedoria   |       Não        |
+| Religião        |  Sabedoria   |       Sim        |
+| Sobrevivência   |  Sabedoria   |       Não        |
+| Diplomacia      |   Carisma    |       Não        |
+| Enganação       |   Carisma    |       Não        |
+| Intimidação     |   Carisma    |       Não        |
 
 ## Acrobacia
 Capacidade de realizar efeitos físicos baseados em agilidade, flexibilidade e precisão.
