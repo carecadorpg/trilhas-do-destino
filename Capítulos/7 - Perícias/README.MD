@@ -41,6 +41,16 @@ A utilização de alguns tipos de armadura causa penalidades em perícias de atr
 Capacidade de realizar efeitos físicos baseados em agilidade, flexibilidade e precisão.
 Seu uso é valido para saltos acrobáticos, contorções, fugas baseadas em flexibilização do corpo e em geral testes envolvendo coordenações motoras.
 
+**MANOBRA EVASIVA** ✊
+</br> 🏃‍♂️Ação de Movimento</br>
+
+Você realizará uma movimentação de acordo com sua velocidade base, porém, essa movimentação não poderá servir como gatilho para para qualquer ação de algo ou alguém que você tenha visto. Para cada ameaça na área, um teste de acrobacia deve ser feito pelo personagem, mas somente uma ação é gasta. O desafio para esta ação é, em casos de personagens, uma salvaguarda de destreza, e em caso de armadilhas, a CD para desarmar(sendo que ela permanecerá ativa após a passagem). Em caso de outras utilizações, avalie com o mestre.
+A interpretação disso fica a critério do jogador, pode ser um salto, uma pirueta aquática para cenários marinhos, uma manobra no ar para personagens que voam, agarrar em algum objeto do cenário para se pendurar ou até mesmo passar por baixo da perna do oponente, desde que seja algo que faça sentido.
+As áreas de ameaça devem ser tratadas como terreno difícil (gastando o dobro de mobilidade para atravessar) Se não possuir Velocidade suficiente para mover-se por todo o espaço, você falha automáticamente. É possível estender a área realizando mais de uma ação desta manobra, com duas ações a movimentação seria o dobro da normal e três ações o triplo.</br>
+Exemplo: Você poderia utilizar a manobra evasiva para pular por uma armadilha sem ativá-la, desde que você saiba a localização dela. No caso de um ataque prepado de um inimigo, você poderia atravessar a área de ameaça sem ativá-lo. Outra possibilidade é realizar uma curva difícil no ar enquanto voa, há a possibilidade de evitar bater no percurso.</br>
+✅**Sucesso**: Você consegue se mover livremente através do espaço determinado.</br>
+❎**Falha**: Seu movimento é interrompido no momento em que você acionar as reações e ficará exposto para todos os efeitos. No caso de uma ação e dois testes ou mais, mesmo falhando em apenas um teste, caso permaneça na área de ameça dos que obteve sucesso, sofrerá as consequências como falhas.
+
 ## Adestramento <a id="adestramento"></a>
 Compreensão da comunicação com animais, o que possibilita uma espécie de diálogo simplista com esse tipo de ser vivo, podendo instruí-lo a realizar algumas ações simples ou simplesmente entendê-lo. Utilizado para instruir um animal a pegar um item, atacar, farejar, proteger, guiar e até acalmá-lo.
 
