@@ -5,3 +5,5 @@
 **Perícias:** Religião, mais 2 a sua escolha entre Adestramento (Sab), Atletismo (For), Diplomacia (Car), História (Int), Intimidação (Car), Medicina (Sab), Percepção (Sab) e Sobrevivência (Sab).</br>
 **Salvaguardas:** Constituição e Sabedoria ou Carisma.</br>
 **Proficiências:** Armas marciais, Armaduras pesadas e escudos.</br>
+
+### Habilidade Nativa: Destruir ✊

@@ -5,3 +5,5 @@
 **Perícias:** Misticismo, mais 3 a sua escolha entre Acrobacia (Des), Diplomacia (Car), Enganação (Car), Furtividade (Des), Intimidação (Car), Misticismo (Int), Percepção (Sab) e Prestidigitação (Des).</br>
 **Salvaguardas:** Destreza e Carisma.</br>
 **Proficiências:** Nenhuma.</br>
+
+### Habilidade Nativa: Herança

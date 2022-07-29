@@ -5,3 +5,5 @@
 **Perícias:** Enganação, mais 3 a sua escolha entre Acrobacia (Des), Furtividade (Des), História (Int), Intimidação (Car), Manufatura (Int), Misticismo (Int) e Percepção (Sab).</br>
 **Salvaguardas:** Destreza e Carisma.</br>
 **Proficiências:** Nenhuma.</br>
+
+### Habilidade Nativa: Rajada Mística ✊

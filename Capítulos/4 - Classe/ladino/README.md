@@ -5,3 +5,5 @@
 **Perícias:** Dedução, mais 4 a sua escolha.</br>
 **Salvaguardas:** Destreza e Inteligência.</br>
 **Proficiências:** Armas marciais.</br>
+
+### Habilidade Nativa: Ataque Furtivo

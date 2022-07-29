@@ -5,3 +5,5 @@
 **Perícias:** Atletismo, mais 2 a sua escolha entre Acrobacia (Des), Intimidação (Car), Medicina (Sab), Percepção (Sab), Religião (Sab) e Sobrevivência.</br>
 **Salvaguardas:** Força e Constituição ou Destreza.</br>
 **Proficiências:** Nenhuma.</br>
+
+### Habilidade Nativa: Treinamento concussivo
