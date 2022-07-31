@@ -4,6 +4,7 @@
 **Pontos de Energia:** 4 por nível.</br>
 **Perícias:** Dedução, mais 4 a sua escolha.</br>
 **Salvaguardas:** Destreza e Inteligência.</br>
+**Acesso à Magia:** Não.</br>
 **Proficiências:** Armas marciais.</br>
 
 ### Habilidade Nativa: Ataque Furtivo

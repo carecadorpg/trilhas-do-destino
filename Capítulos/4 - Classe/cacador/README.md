@@ -4,6 +4,7 @@
 **Pontos de Energia:** 4 por nível.</br>
 **Perícias:** Sobrevivência, mais 3 a sua escolha entre Acrobacia (Des), Atletismo (For), Dedução (Int), Furtividade (Des), Manufatura (Int), Natureza (Int), Percepção (Sab) e Prestidigitação (Des).</br>
 **Salvaguardas:** Sabedoria e Destreza ou Constituição.</br>
+**Acesso à Magia:** Primais.</br>
 **Proficiências:** Armas marciais.</br>
 
 ### Habilidade Nativa: Analisar Oponente ✊

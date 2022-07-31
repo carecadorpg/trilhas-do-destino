@@ -4,6 +4,7 @@
 **Pontos de Energia:** 6 por nível.</br>
 **Perícias:** Misticismo, mais 3 a sua escolha entre Dedução (Int), História (Int), Manufatura (Int), Natureza (Int), Percepção (Sab) e Religião (Sab).</br>
 **Salvaguardas:** Destreza e Inteligência.</br>
+**Acesso à Magia:** Arcanas.</br>
 **Proficiências:** Nenhuma.</br>
 
 ### Habilidade Nativa:  Grimório

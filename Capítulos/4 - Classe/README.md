@@ -13,6 +13,7 @@ Toda classe possúi seis informações iniciais:</br>
 **Pontos de Energia:** Quantidade de energia ganha por nível.</br>
 **Perícias:** Uma perícia obrigatória e uma quantidade de perícias extras para escolha.</br>
 **Salvaguardas:** Salvaguardas em dois atributos.</br>
+**Acesso à Magia:** Caso a classe conceda acesso à algum tipo de magia o tipo será descrito nesse campo.</br>
 **Proficiências:** Conhecimentos que a classe disponibiliza.</br>
 **Habilidade Nativa:** Habilidade que o personagem ganha ao iniciar o primeiro nível desta classe
 

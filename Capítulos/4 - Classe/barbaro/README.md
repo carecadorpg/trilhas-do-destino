@@ -4,6 +4,7 @@
 **Pontos de Energia:** 3 por nível.</br>
 **Perícias:** Atletismo, mais 1 a sua escolha entre Acrobacia (Des), Adestramento (Sab),  Intimidação (Car), Natureza(Int) e Percepção(Sab).</br>
 **Salvaguardas:** Força e Constituição.</br>
+**Acesso à Magia:** Não.</br>
 **Proficiências:** Armas marciais e escudos.</br>
 
 ### Habilidade Nativa: Fúria ✊

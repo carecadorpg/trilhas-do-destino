@@ -4,6 +4,7 @@
 **Pontos de Energia:** 3 por nível.</br>
 **Perícias:** Percepção, mais 2 a sua escolha entre Acrobacia (Des), Adestramento (Sab), Atletismo (For), Dedução (Int), Diplomacia (Car), Intimidação (Car), Manufatura (Int), Medicina (Sab), Natureza (Sab) e Sobrevivência (Sab).</br>
 **Salvaguardas:** Constituição e Força ou Destreza.</br>
+**Acesso à Magia:** Não.</br>
 **Proficiências:** Armas marciais, Armaduras pesadas e escudos.</br>
 
 ### Habilidade Nativa: Golpe Aprimorado ✊

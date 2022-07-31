@@ -4,6 +4,7 @@
 **Pontos de Energia:** 4 por nível.</br>
 **Perícias:** Enganação, mais 3 a sua escolha entre Acrobacia (Des), Dedução (Int), Diplomacia (Car), Furtividade(Des), História (Int), Intimidação (Car), Misticismo (Int), Percepção (Sab) e Prestidigitação (Des).</br>
 **Salvaguardas:** Destreza e Carisma.</br>
+**Acesso à Magia:** Ocultistas.</br>
 **Proficiências:** Nenhuma.</br>
 
 ### Habilidade Nativa: Ispirar Coragem ✊✊
