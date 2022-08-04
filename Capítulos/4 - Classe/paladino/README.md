@@ -8,3 +8,4 @@
 **Proficiências:** Armas marciais, Armaduras pesadas e escudos.</br>
 
 ### Habilidade Nativa: Destruir ✊
+Ao realizar um ataque, o paladino pode gastar 2 PE para que seu golpe se torne um destruir. Ao fazer isso ele soma o modificador de Carisma no teste de ataque e +1d8 na rolagem de dano. A cada quatro níveis, é possível que seja gasto +1 PE para aumentar o dano em +1d8.
