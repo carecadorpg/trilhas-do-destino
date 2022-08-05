@@ -8,3 +8,4 @@
 **Proficiências:** Armas marciais, Armaduras pesadas e escudos.</br>
 
 ### Habilidade Nativa: Golpe Aprimorado ✊
+Ao realizar um ataque convencional, com uma ação, o guerreiro pode optar por utilizar esta ação para realizar o Golpe Apriomorado, gastando 1 PE. Ao fazer isso, ele recebe +4 que podem ser distribuidos entre acerto e dano. A cada quatro níveis, é possível que seja gasto +1 PE para aumentar esse bônus em +4. O valor total pode ser distribuído de acordo com o desejo do jogador.

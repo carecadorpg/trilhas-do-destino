@@ -8,3 +8,4 @@
 **Proficiências:** Armas marciais.</br>
 
 ### Habilidade Nativa: Ataque Furtivo
+Um ladino sabe se aproveitar de eventualidades de um combate para atingir seus oponentes em pontos fracos. Sempre que o ladino realizar um ataque em alcance curto em um oponente que esteja desprevenido, flanqueado ou imobilizado, este ataque é considerado automaticamente como um ataque furtivo causando 1d6 pontos de dano adicionais. A cada dois níveis, este dano adicional é aumentado em +1d6. Alvos imunes a acertos críticos também são imunes a ataques furtivos.
