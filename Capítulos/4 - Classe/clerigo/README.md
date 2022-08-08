@@ -7,4 +7,5 @@
 **Acesso à Magia:** Divinas.</br>
 **Proficiências:** Armaduras pesadas e escudos.</br>
 
-### Habilidade Nativa: Canalizar energias ✊
+### Habilidade Nativa: Canalizar energias ✊✊
+O clérigo é capaz de fixar sua fé em um símbolo sagrado de sua divindade. Ao realizar isto, uma explosão emana apartir dele curando ou causando dano de acordo com a sua divindade. Divindades de tendência boa canalizarão energias positivas que curam seres vivos biológicos e causam dano a mortos vivos e para os de tendência má a canalização de energias é negativa, causando danos a seres vivos biológicos e curando mortos vivos. O clérigo gasta duas ações e 1 PE para que possa utilizar esta habilidade curando ou causando dano de 1d8 + modificador de sabedoria nas criaturas que ele desejar em uma área curta. A cada 3 níveis de clérigo é possível que seja gasto +1 PE para aumentar este dano em + 1d8 + modificador de sabedoria. 🧙

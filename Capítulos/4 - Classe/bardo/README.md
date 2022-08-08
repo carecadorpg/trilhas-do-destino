@@ -8,4 +8,4 @@
 **Proficiências:** Nenhuma.</br>
 
 ### Habilidade Nativa: Ispirar Coragem ✊✊
-Você pode gastar duas ações e 2 PE para inspirar aliados com sua arte. Seu personagem e todos os aliados em um alcance curto ganham +1 em testes de ataque, salvaguardas e perícias até o fim da cena. A cada quatro níveis, é possível que seja gasto +2 PE para aumentar o bônus em +1.
+Você pode gastar duas ações e 2 PE para inspirar aliados com sua arte. Seu personagem e todos os aliados em um alcance curto ganham +1 em testes de ataque, salvaguardas e perícias até o fim da cena. A cada quatro níveis, é possível que seja gasto +2 PE para aumentar o bônus em +1. 🧙
