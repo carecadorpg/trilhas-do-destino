@@ -8,4 +8,4 @@
 **Proficiências:** Armas marciais, Armaduras pesadas e escudos.</br>
 
 ### Habilidade Nativa: Traçar estratégia ✊
-Por ser um estrategista nato, o intendente é capaz de analisar situações críticas e buscar pela melhor forma de resolvê-las. Uma vez por rodada o intendente pode gastar 1 PE para adiquirir 3 pontos de estratégia. Ele pode distribuir esses 3 pontos entre si mesmo e seus aliados da maneira que desejar, cada ponto concede +1 em acerto ou +1 em dano. A cada 3 níveis é possível que seja gasto +1 PE para aumentar os pontos de estratégia em +3.
+Por ser um estrategista nato, o intendente é capaz de analisar situações críticas e buscar pela melhor forma de resolvê-las. Uma vez por rodada o intendente pode gastar 1 PE para adquirir 3 pontos de estratégia. Ele pode distribuir esses 3 pontos entre si mesmo e seus aliados da maneira que desejar, cada ponto concede +1 em acerto ou +1 em dano. A cada 3 níveis é possível que seja gasto +1 PE para aumentar os pontos de estratégia em +3.
