@@ -38,12 +38,26 @@ Algumas livrarias possuem uma sessão onde você pode comprar dados. Existe tamb
 ## Criando um personagem
 
 ### Atributos Básicos
-#### Força
-#### Destreza
-#### Constituição
-#### Inteligência
-#### Sabedoria
-#### Carisma
+Todos os personagens possuem 6 atributos básicos: Força (For), Destreza (Des), Constituição (Con), Inteligência (Int), Sabedoria (Sab) e Carisma (Car). Estes valores representam as capacidades físicas e mentais do personagem ou auxiliando ou atrapalhando em tarefas durante toda sua vida. Utilize sempre o valor 10 como uma média, mas os valores podem variar para cima ou para baixo dependendo das capacidades.
+
+**Força:**</br>
+**Destreza:**</br>
+**Constituição:**</br>
+**Inteligência:**</br>
+**Sabedoria:**</br>
+**Carisma:**</br>
+
+#### Distribuição dos pontos
+O sistema padrão para distribuição de atributos deste sistema trabalha com compra de pontos. Cada personagem recebe 20 pontos para gastar em valores de atributo. Os valores em todos os atributos começam em 10 e os pontos podem ser utilizados para aumento ou decremento desses valores conforme tabela abaixo:
+
+| Valor | Custo | valor | custo | valor | custo |
+| :---- | :---- | :---: | :---: | ----: | ----: |
+| 7     | -4    |  11   |   1   |    15 |     7 |
+| 8     | -2    |  12   |   2   |    16 |    10 |
+| 9     | -1    |  13   |   3   |    17 |    13 |
+| 10    | 0     |  14   |   5   |    18 |    17 |
+
+**Regra opcional de rolagem de atributos:** Alguns jogadores preferem deixar o jogo mais realista adicionando aleatoriedade na criação do personagem. Esta regra envolve rolar 2d6+6 por 6 vezes e para cada valor obtido, determinar o atributo que o receberá. Esta forma de jogar cria personagens bem únicos, mas também possibilita uma disparidade entre eles.
 
 ### Status do personagem
 
