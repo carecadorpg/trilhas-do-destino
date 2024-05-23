@@ -9,7 +9,7 @@ O tempo também influencia, pois pode ser sabida a localização inicial de uma 
 As ancestralidades citadas nesse material são sugestões e exemplos, assim como as habilidades atreladas a elas.
 Utilizaremos as mais comuns em todos os sistemas de RPG e talvez alguma outra que seja interessante adicionar.
 
-Para representar os aspéctos culturais de cada ancestralidade, o jogador deve **escolher ganhar +1 ponto em 3 atributos diferentes ou +2 +1 -1**. Além disso adquirir as **habilidades positivas e negativas** da ancestralidade.
+Para representar os aspectos culturais de cada ancestralidade, o jogador deve **escolher ganhar +1 ponto em 3 atributos diferentes ou +2 +1 -1**. Além disso adquirir as **habilidades positivas e negativas** da ancestralidade.
 
 ## Criando uma ancestralidade nova
 O mestre/narrador da mesa pode ficar à vontade para criar ancestralidades de acordo com as regras desse material.
