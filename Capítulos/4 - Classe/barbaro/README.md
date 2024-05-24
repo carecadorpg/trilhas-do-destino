@@ -1,6 +1,6 @@
 ## Bárbaro <a id="barbaro"></a>
 
-**Pontos de Vida:** (5 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
+**Pontos de Vida:** (6 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
 **Pontos de Energia:** 3 por nível.</br>
 **Perícias:** Atletismo, mais 1 a sua escolha entre Acrobacia (Des), Adestramento (Sab),  Intimidação (Car), Natureza(Int) e Percepção(Sab).</br>
 **Salvaguardas:** Força e Constituição.</br>

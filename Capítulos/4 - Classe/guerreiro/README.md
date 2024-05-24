@@ -1,6 +1,6 @@
 ## Guerreiro <a id="guerreiro"></a>
 
-**Pontos de Vida:** (4 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
+**Pontos de Vida:** (5 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
 **Pontos de Energia:** 3 por nível.</br>
 **Perícias:** Percepção, mais 2 a sua escolha entre Acrobacia (Des), Adestramento (Sab), Atletismo (For), Dedução (Int), Diplomacia (Car), Intimidação (Car), Manufatura (Int), Medicina (Sab), Natureza (Sab) e Sobrevivência (Sab).</br>
 **Salvaguardas:** Constituição e Força ou Destreza.</br>

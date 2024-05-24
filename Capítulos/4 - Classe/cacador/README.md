@@ -1,6 +1,6 @@
 ## Caçador <a id="cacador"></a>
 
-**Pontos de Vida:** (3 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
+**Pontos de Vida:** (4 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
 **Pontos de Energia:** 4 por nível.</br>
 **Perícias:** Sobrevivência, mais 3 a sua escolha entre Acrobacia (Des), Atletismo (For), Dedução (Int), Furtividade (Des), Manufatura (Int), Natureza (Int), Percepção (Sab) e Prestidigitação (Des).</br>
 **Salvaguardas:** Sabedoria e Destreza ou Constituição.</br>

@@ -1,6 +1,6 @@
 ## Mago <a id="mago"></a>
 
-**Pontos de Vida:** (1 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
+**Pontos de Vida:** (2 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
 **Pontos de Energia:** 6 por nível.</br>
 **Perícias:** Misticismo, mais 3 a sua escolha entre Dedução (Int), História (Int), Manufatura (Int), Natureza (Int), Percepção (Sab) e Religião (Sab).</br>
 **Salvaguardas:** Destreza e Inteligência.</br>

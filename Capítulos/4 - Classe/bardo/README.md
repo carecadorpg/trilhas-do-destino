@@ -1,6 +1,6 @@
 ## Bardo <a id="bardo"></a>
 
-**Pontos de Vida:** (2 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
+**Pontos de Vida:** (3 + Constituição) por nível, sendo que no primeiro nível esse valor é multiplicado por três.</br>
 **Pontos de Energia:** 4 por nível.</br>
 **Perícias:** Enganação, mais 3 a sua escolha entre Acrobacia (Des), Dedução (Int), Diplomacia (Car), Furtividade(Des), História (Int), Intimidação (Car), Misticismo (Int), Percepção (Sab) e Prestidigitação (Des).</br>
 **Salvaguardas:** Destreza e Carisma.</br>
