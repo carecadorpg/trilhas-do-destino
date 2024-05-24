@@ -1,19 +1,10 @@
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table {
-    margin: auto;
-}
-</style>
-
 # Capítulo 7 - Perícias
 
 Perícias são um tipo de treinamento em uma determinada área de atuação que um personagem recebe durante sua formação e seu desenvolvimento. Seu treinamento é determinado através da Ancestralidade, Biografia e Classe do personagem.
 
 Para utilizar uma perícia, o jogador deverá declarar esta utilização ao Mestre/Narrador, para que seja avaliada a dificuldade do teste. Uma vez com o desafio determinado, o jogador deverá realizar um teste de perícia rolando um d20 e somando seu bônus naquela perícia.
 
-O bônus do personagem em uma perícia é seu modificador no atributo chave respectivo somado com metade do seu nível arredondado para baixo. Caso o personagem possua treinamento na perícia, ao invés de somar metade do seu nível ele somará seu nível inteiro. Algumas perícias dependem de um treinamento prévio e só podem ser utilizadas uma vez que o personagem seja instruído em como executá-la.
+O bônus do personagem em uma perícia é seu atributo chave respectivo somado com metade do seu nível arredondado para baixo. Caso o personagem possua treinamento na perícia, ao invés de somar metade do seu nível ele somará seu nível inteiro. Algumas perícias dependem de um treinamento prévio e só podem ser utilizadas uma vez que o personagem seja instruído em como executá-la.
 
 A utilização de alguns tipos de armadura causa penalidades em perícias de atributo força e destreza, por serem pesadas e/ou fazem barulho durante a movimentação, para mais detalhes, consulte o capítulo de equipamentos. Segue a lista de perícias do sistema:
 

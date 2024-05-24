@@ -9,7 +9,7 @@ O tempo também influencia, pois pode ser sabida a localização inicial de uma 
 As ancestralidades citadas nesse material são sugestões e exemplos, assim como as habilidades atreladas a elas.
 Utilizaremos as mais comuns em todos os sistemas de RPG e talvez alguma outra que seja interessante adicionar.
 
-Para representar os aspéctos culturais de cada ancestralidade, o jogador deve **escolher ganhar +2 pontos em 3 atributos diferentes ou +4 +2 -2**. Além disso adquirir as **habilidades positivas e negativas** da ancestralidade.
+Para representar os aspectos culturais de cada ancestralidade, o jogador deve **escolher ganhar +1 ponto em 3 atributos diferentes ou +2 +1 -1**. Além disso adquirir as **habilidades positivas e negativas** da ancestralidade.
 
 ## Criando uma ancestralidade nova
 O mestre/narrador da mesa pode ficar à vontade para criar ancestralidades de acordo com as regras desse material.
@@ -33,7 +33,7 @@ A civilização élfica tende a ser mais conectada a natureza, seja por sua arqu
 Errantes são mortos vivos. Esta não é uma civilização comumente representada em demais histórias, então fique à vontade para explorar sua criatividade. Eles podem ocupar lugares que ocupavam quando vivos, podem viver entre cemitérios, cavernas ou masmorras. Errantes tem o costume de deixar de lado necessidades vitais, justamente por não dependerem delas. O que mantém errantes acordados mesmo após a morte costuma estar ligado a energias profanas e muitos deuses repudiam mortos vivos, sendo assim, magias de curar e inflingir dano divino funcionam com o efeito oposto.</br>
 **Habilidade Benéfica:**</br>
 1 - O errante é imune a efeitos de doenças, fadiga, sangramento, sono e venenos.</br>
-2 - Ao invés de receber dano de magias de canalização de energia negativa, o errante se cura.
+2 - Ao invés de receber dano de magias de canalização de energia negativa, o errante se cura.</br>
 **Habilidade Maléfica:**</br>
 1 -  Eles também são impossibilitados de utilizar qualquer tipo de poção ou comidas.</br>
 2 - Ao invés de se curar com efeitos de magias de canalização de energia positiva, o errante sofre dano.
@@ -66,7 +66,7 @@ A civilização dos Halflings é uma das mais pacatas de todas, eles costumam vi
 
 ### Humano
 A civilização humana é incrível, isso devido a sua eterna ambição e adaptabilidade. Humanos estão sempre em busca de mais, seja em ouro, técnologia ou espaço. Devido a sua versatilidade humanos conseguem ser talentosos, podendo treinar uma habilidade nova a cada inicio de dia e deixando pra trás aquela não mais necessária.</br>
-**Habilidade Benéfica:** No início de cada dia os humanos podem utilizar de sua versatilidade para treinar uma habilidade geral, esta habilidade pode ser uitilizada até que a versatilidade seja utilizada para treinar outra habilidade no lugar.</br>
+**Habilidade Benéfica:** No início de cada dia os humanos podem utilizar de sua versatilidade para treinar uma habilidade geral, esta habilidade pode ser utilizada até que a versatilidade seja utilizada para treinar outra habilidade no lugar.</br>
 **Habilidade Maléfica:** Habilidades aprendidas através da versatilidade não podem servir como pré-requisito e a cada vez que uma habilidade nova for escolhida, o personagem perde 2 pontos de CA durante um dia pelo descuido de sua ambição.
 
 ### Orc
